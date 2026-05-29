@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productparse",
+        "uuid": 47120,
+        "checksum": "7sr0i5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
